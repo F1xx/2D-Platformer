@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs
+4-UnrealProject/GAM1516Final/GAM1516Final.sln
+4-UnrealProject/GAM1516Final/.vs/GAM1516Final/v15
+4-UnrealProject/GAM1516Final/.vs/GAM1516Final/.vs
+4-UnrealProject/GAM1516Final/Intermediate
+4-UnrealProject/GAM1516Final/Saved
+4-UnrealProject/GAM1516Final/Binaries
